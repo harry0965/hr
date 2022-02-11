@@ -39,6 +39,8 @@ export type Brand =
 export type Series =
   | 'test:series'
   | 'captcha-deterrent'
+  | '1660S'
+  | '1660'
   | '3050'
   | '3060'
   | '3060ti'
