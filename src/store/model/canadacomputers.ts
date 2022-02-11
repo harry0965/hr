@@ -20,6 +20,12 @@ export const CanadaComputers: Store = {
       url: 'https://www.canadacomputers.com/product_info.php?item_id=167320&cPath=27_1046_365&language=en',
     },
     {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '1660',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=136151language=en',
+    },
+    {
       brand: 'zotac',
       model: 'twin edge oc',
       series: '1660S',
