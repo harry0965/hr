@@ -20,10 +20,28 @@ export const CanadaComputers: Store = {
       url: 'https://www.canadacomputers.com/product_info.php?item_id=167320&cPath=27_1046_365&language=en',
     },
     {
+      brand: 'asus',
+      model: 'dual oc',
+      series: '1660',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=156451&language=en',
+    },
+    {
+      brand: 'asus',
+      model: 'dual oc',
+      series: '1660',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=156775&language=en',
+    },
+    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '1660',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=159622&language=en',
+    },
+    {
       brand: 'gigabyte',
       model: 'gaming oc',
       series: '1660',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=136151language=en',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=136151&language=en',
     },
     {
       brand: 'zotac',
